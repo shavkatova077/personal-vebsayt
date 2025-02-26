@@ -1,0 +1,27 @@
+h1 {
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+}
+
+p {
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+.box {
+    border: 2px dashed black;
+}
+
+ul {
+    background-color: aqua;
+
+}
+li {
+    color: white;
+}
+
+body {
+    background-color: aliceblue;
+}
